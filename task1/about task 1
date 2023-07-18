@@ -1,1 +1,22 @@
+The Heart-Disease-Dataset database consists of 76 attributes, but only a subset of 14 attributes has been utilized in all published experiments thus far. Among these experiments, ML researchers have exclusively employed the Cleveland database. The attribute labeled "goal" indicates the presence of heart disease in a patient and is represented by an integer ranging from 0 (indicating no presence) to 4. Previous studies conducted using the Cleveland database have primarily focused on distinguishing between the presence (values 1, 2, 3, 4) and absence (value 0) of heart disease.
+
+age(age in years)
+
+sex(1 = male; 0 = female)
+
+cp(chest pain type)
+
+trestbps(resting blood pressure (in mm Hg on admission to the hospital))
+
+chol(serum cholestoral in mg/dl)
+
+fbs((fasting blood sugar &gt; 120 mg/dl) (1 = true; 0 = false))
+
+restecg(resting electrocardiographic results)
+
+thalach(maximum heart rate achieved)
+
+exang(exercise-induced angina (1 = yes; 0 = no))
+
+oldpeak(ST depression induced by exercise relative to rest)
 
