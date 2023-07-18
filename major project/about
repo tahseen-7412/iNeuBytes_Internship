@@ -1,0 +1,9 @@
+In the field of e-commerce, the datasets are typically considered as proprietary, meaning they are owned and controlled by individual organizations and are not often made publicly available due to privacy and business considerations. In spite of this, The UCI Machine Learning Repository, known for its extensive collection of datasets beneficial for machine learning and data mining research, has curated and made accessible a unique dataset. This dataset comprises actual transactional data spanning from the year 2010 to 2011. For those interested, the dataset is maintained and readily available on the UCI Machine Learning Repository's site under the title "Online Retail".
+InvoiceNo
+StockCode
+Description
+Quantity
+InvoiceDate
+UnitPrice
+CustomerID
+Country
