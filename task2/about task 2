@@ -1,0 +1,32 @@
+The Beijing PM2.5 Data Data Set is a comprehensive collection of air pollution data specifically focused on PM2.5 (particulate matter with a diameter of 2.5 micrometers or smaller) levels in Beijing, China. PM2.5 is considered a major air pollutant and has significant impacts on human health and the environment.
+
+This dataset provides information on daily PM2.5 concentrations recorded at various monitoring stations across Beijing. The data set covers a considerable time period and includes measurements taken from multiple stations within the city. Each data point typically includes the date, time, and PM2.5 concentration level, along with other relevant meteorological and environmental factors.
+
+The purpose of this data set is to monitor and analyze the air quality in Beijing over time, identify trends, and assess the effectiveness of pollution control measures. It serves as a valuable resource for researchers, scientists, policymakers, and environmentalists interested in studying air pollution, its sources, and its impacts on public health.
+
+Researchers can utilize this dataset to conduct various analyses, such as investigating seasonal variations in PM2.5 levels, identifying pollution hotspots within the city, assessing the correlation between PM2.5 and weather conditions, and evaluating the effectiveness of pollution reduction strategies implemented by authorities.
+
+By examining this data set, one can gain insights into the patterns and trends of PM2.5 pollution in Beijing, helping to inform policy decisions aimed at improving air quality and protecting the health and well-being of the city's residents.
+
+
+No(row number)
+
+year(year of data in this row)
+
+month(month of data in this row)
+
+day(day of data in this row)
+
+hour(hour of data in this row)
+
+pm2.5(PM2.5 concentration (ug/m^3))
+
+DEWP(Dew Point (â„ƒ))
+
+TEMP(Temperature (â„ƒ))
+
+PRES(Pressure (hPa))
+
+cbwd(Combined wind direction)
+
+
